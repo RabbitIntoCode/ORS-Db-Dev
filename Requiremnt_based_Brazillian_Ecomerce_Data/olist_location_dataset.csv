@@ -1,4 +1,4 @@
-﻿location_id,location_zip_code,location_city,location_state
+﻿location_id,location_zip_code_prefix,location_city,location_state
 1,13023,campinas,SP
 2,13844,mogi guacu,SP
 3,20031,rio de janeiro,RJ
